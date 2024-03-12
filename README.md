@@ -26,4 +26,4 @@ This is a simple business landing page built using HTML, Bootstrap, and JavaScri
 - Bootstrap (https://getbootstrap.com/)
 - Unsplash for placeholder images (https://unsplash.com/)
 
-Feel free to use this template for your own business landing page project. If you have any questions or feedback, please reach out to me at [sojitramonank2003@gmail.com](mailto:your-email@example.com). Thank you!
+Feel free to use this template for your own business landing page project. If you have any questions or feedback, please reach out to me at [sojitramonank2003@gmail.com](mailto:sojitramonank2003@gmail.com). Thank you!
